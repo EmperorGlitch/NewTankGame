@@ -1,0 +1,6 @@
+C:\Users\Glitch Hacker\Desktop\Week2AssignmentStart\Week2_assignment_start\Tank\bin\Debug\Tank.exe
+C:\Users\Glitch Hacker\Desktop\Week2AssignmentStart\Week2_assignment_start\Tank\bin\Debug\Tank.pdb
+C:\Users\Glitch Hacker\Desktop\Week2AssignmentStart\Week2_assignment_start\Tank\obj\x86\Debug\Tank.csproj.AssemblyReference.cache
+C:\Users\Glitch Hacker\Desktop\Week2AssignmentStart\Week2_assignment_start\Tank\obj\x86\Debug\Tank.csproj.CoreCompileInputs.cache
+C:\Users\Glitch Hacker\Desktop\Week2AssignmentStart\Week2_assignment_start\Tank\obj\x86\Debug\Tank.exe
+C:\Users\Glitch Hacker\Desktop\Week2AssignmentStart\Week2_assignment_start\Tank\obj\x86\Debug\Tank.pdb
